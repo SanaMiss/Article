@@ -1,0 +1,116 @@
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\bin\Debug\Articles.exe.config
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\bin\Debug\Articles.exe
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\bin\Debug\Articles.pdb
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.Cache
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.exe
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.pdb
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
+C:\Users\Hamza Ben Manâa\Desktop\Tp\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\bin\Debug\Articles.exe.config
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\bin\Debug\Articles.exe
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\bin\Debug\Articles.pdb
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.Cache
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.exe
+C:\Users\Pc\Downloads\Isi1\Isi1\Sem1\Tp_c#\Articles\Articles\obj\Debug\Articles.pdb
+D:\Etudes\MPISI\Csharp\Articles\Articles\bin\Debug\Articles.exe.config
+D:\Etudes\MPISI\Csharp\Articles\Articles\bin\Debug\Articles.exe
+D:\Etudes\MPISI\Csharp\Articles\Articles\bin\Debug\Articles.pdb
+D:\Etudes\MPISI\Csharp\Articles\Articles\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.csprojAssemblyReference.cache
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.cache
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.csproj.CoreCompileInputs.cache
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.csproj.CopyComplete
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.exe
+D:\Etudes\MPISI\Csharp\Articles\Articles\obj\Debug\Articles.pdb
+F:\Articles\Articles\bin\Debug\Articles.exe.config
+F:\Articles\Articles\bin\Debug\Articles.exe
+F:\Articles\Articles\bin\Debug\Articles.pdb
+F:\Articles\Articles\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
+F:\Articles\Articles\obj\Debug\Articles.csprojAssemblyReference.cache
+F:\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+F:\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+F:\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+F:\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.cache
+F:\Articles\Articles\obj\Debug\Articles.csproj.CoreCompileInputs.cache
+F:\Articles\Articles\obj\Debug\Articles.csproj.CopyComplete
+F:\Articles\Articles\obj\Debug\Articles.exe
+F:\Articles\Articles\obj\Debug\Articles.pdb
+E:\Articles\Articles\bin\Debug\Articles.exe.config
+E:\Articles\Articles\obj\Debug\Articles.exe
+E:\Articles\Articles\obj\Debug\Articles.pdb
+E:\Articles\Articles\bin\Debug\Articles.exe
+E:\Articles\Articles\bin\Debug\Articles.pdb
+E:\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+E:\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+E:\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+E:\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+E:\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Articles\Articles\bin\Debug\Articles.exe.config
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.exe
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.pdb
+C:\Users\user\Desktop\Articles\Articles\bin\Debug\Articles.exe
+C:\Users\user\Desktop\Articles\Articles\bin\Debug\Articles.pdb
+C:\Users\user\Desktop\Articles\Articles\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+C:\Users\user\Desktop\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.Cache
+F:\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\bin\Debug\Articles.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Ajout.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Consulter.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Facture_Ajout.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Gestion.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Facture.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Modifier.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Frm_Supprimer.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\obj\Debug\Articles.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\bin\Debug\Articles.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Articles\Articles\bin\Debug\Articles.pdb
